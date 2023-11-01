@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jaydotcontact
-- 👀 I’m interested in: learning how to create a life for myself
-- 🌱 I’m currently learning; coding in java
-- 💞️ I’m looking to collaborate on; nothing just yet
+- 👋 Hi, I’m Jason
+- 👀 I’m interested in: learning how to create a life for myself.
+- 🌱 I’m currently learning; coding & git.
+- 💞️ I’m looking to collaborate on; nothing just yet.
 - 📫 How to reach me: via mail; jaydotcontact@gmail.com
 
 <!---
